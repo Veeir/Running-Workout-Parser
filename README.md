@@ -1,4 +1,7 @@
-# Running Workout Parser 
+# Running Workout Parser
+
+## Foreward
+I let chat write a README for this script. Results are good I think.
 
 ## Overview
 This script parses running workout data from Apple Health XML export files (`export.xml`) and converts them into a JSON format. It removes duplicate workouts based on the `startDate` and supports multiple input files.
