@@ -6,6 +6,13 @@ I let chat write a README for this script. Results are good I think.
 ## Overview
 This script parses running workout data from Apple Health XML export files (`export.xml`) and converts them into a JSON format. It removes duplicate workouts based on the `startDate` and supports multiple input files.
 
+## How to export Apple Health Data
+1. Open the Health app
+2. Click on your profile photo
+3. Click on “Export All Health Data”
+4. Wait for a really long time probably.
+5. Airdrop or save the zip file.
+
 ## Requirements
 - Python 3.x
 
